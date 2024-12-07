@@ -1,0 +1,11 @@
+npx create-next-app@latest
+name:client
+
+cd client
+
+-- a bid installation line goes here. yet to add
+npm i @mui/x-data-grid
+npm i -D @types/node @types/uuid @types/numeral
+npm run dev
+npm i -D prettier prettier-plugin-tailwindcss
+npm i -D tailwind-merge
