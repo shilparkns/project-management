@@ -3,9 +3,15 @@ name:client
 
 cd client
 
--- a bid installation line goes here. yet to add
+
+npm i @mui/material @emotion/react @emotion/styled lucide-react numeral date-fns axios recharts react-dnd react-dnd-html5-backend gantt-task-react
+
+npm i
 npm i @mui/x-data-grid
 npm i -D @types/node @types/uuid @types/numeral
 npm run dev
 npm i -D prettier prettier-plugin-tailwindcss
 npm i -D tailwind-merge
+
+
+npm i react-redux @reduxjs/toolkit redux-persist dotenv
